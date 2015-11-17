@@ -1,0 +1,61 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h1>電腦輔助設計與實習</h1>
+    <p>班級:四設計二甲</p>
+    <p>學號:40323155</p>
+    <p>姓名:鄭弘暉</p>		
+</section>
+
+<section>
+    <h1>第八週上課內容</h1>
+</section>
+<section>
+    <h1>建置班級協同倉儲的網誌</h1>
+</section>
+<section>
+    <section>
+    <h1>心得及自評</h1>
+    </section>
+    <section>
+    <p>心得:今天老師讓我們作期末的報告到班級協同倉儲的網誌中，只是上次光是新增網誌就一直發生衝突的狀況了，這個禮拜就更嚴重了，即使是將LEO檔案修好了，過不到10分鐘還是會有人將損壞的檔案傳回去，最後是有發現在有人無法上傳時使用git pull這個指令將以下載的檔案更新，使用之後LEO會發生損壞的情況，這時候時有的人又將這樣的檔案傳回去才發生的狀況。</p>
+    <p>自評:90分</p>
+    </section>
+</section>
+		
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
