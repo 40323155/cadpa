@@ -14,23 +14,47 @@
 <v t="leo.20151117184923.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20151117184923.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="leo.20151117185056.1"><vh>@path 40323155</vh>
-<v t="leo.20151117185056.2"><vh>以下為投影片 ------------</vh></v>
-<v t="leo.20151117185056.3"><vh>@edit 40323155_cp_w1_p.html</vh></v>
-<v t="leo.20151117185056.4" a="E"><vh>@path pelican</vh>
-<v t="leo.20151117185056.5"><vh>以下為設定檔 ------------</vh></v>
-<v t="leo.20151117185056.6"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151117185056.7" a="E"><vh>@path content</vh>
-<v t="leo.20151117185056.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
-<v t="leo.20151117185056.9"><vh>@edit 40323155_cp_ppt.md</vh></v>
-<v t="leo.20151117185056.10"><vh>@edit 40323155_cp_w1.md</vh></v>
-<v t="leo.20151117185056.11"><vh>@edit 40323155_cp_w2.md</vh></v>
-<v t="leo.20151117185056.12"><vh>@edit 40323155_cp_w3.md</vh></v>
-<v t="leo.20151117185056.13"><vh>@edit 40323155_cp_w4.md</vh></v>
-<v t="leo.20151117185056.14"><vh>@edit 40323155_cp_w5.md</vh></v>
-<v t="leo.20151117185056.15"><vh>@edit 40323155_cp_w6.md</vh></v>
-<v t="leo.20151117185056.16"><vh>@edit 40323155_cp_w7.md</vh></v>
-<v t="leo.20151117185056.17"><vh>@edit 40323155_cp_w8.md</vh></v>
+<v t="leo.20160114223305.1"><vh>@path ./</vh>
+<v t="leo.20160114223305.2"><vh>以下為投影片 ------------</vh></v>
+<v t="leo.20160114223305.3"><vh>@edit 40323155_cp_w1_p.html</vh></v>
+<v t="leo.20160114223305.4"><vh>@edit 40323155_cp_w2_p.html</vh></v>
+<v t="leo.20160114223305.5"><vh>@edit 40323155_cp_w3_p.html</vh></v>
+<v t="leo.20160114223305.6"><vh>@edit 40323155_cp_w4_p.html</vh></v>
+<v t="leo.20160114223305.7"><vh>@edit 40323155_cp_w5_p.html</vh></v>
+<v t="leo.20160114223305.8"><vh>@edit 40323155_cp_w6_p.html</vh></v>
+<v t="leo.20160114223305.9"><vh>@edit 40323155_cp_w7_p.html</vh></v>
+<v t="leo.20160114223305.10"><vh>@edit 40323155_cp_w8_p.html</vh></v>
+<v t="leo.20160114223305.11"><vh>@edit 40323155_cp_w9_p.html</vh></v>
+<v t="leo.20160114223305.12"><vh>@edit 40323155_cp_w10_p.html</vh></v>
+<v t="leo.20160114223305.13"><vh>@edit 40323155_cp_w11_p.html</vh></v>
+<v t="leo.20160114223305.14"><vh>@edit 40323155_cp_w12_p.html</vh></v>
+<v t="leo.20160114223305.15"><vh>@edit 40323155_cp_w13_p.html</vh></v>
+<v t="leo.20160114223305.16"><vh>@edit 40323155_cp_w14_p.html</vh></v>
+<v t="leo.20160114223305.17"><vh>@edit 40323155_cp_w15_p.html</vh></v>
+<v t="leo.20160114223305.18"><vh>@edit 40323155_cp_w16_p.html</vh></v>
+<v t="leo.20160114223305.19"><vh>@edit 40323155_cp_w17_p.html</vh></v>
+<v t="leo.20160114223305.20" a="E"><vh>@path pelican</vh>
+<v t="leo.20160114223305.21"><vh>以下為設定檔 ------------</vh></v>
+<v t="leo.20160114223305.22"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20160114223305.23" a="E"><vh>@path content</vh>
+<v t="leo.20160114223305.24"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20160114223305.25"><vh>@edit 40323155_cp_w1.md</vh></v>
+<v t="leo.20160114223305.26"><vh>@edit 40323155_cp_w2.md</vh></v>
+<v t="leo.20160114223305.27"><vh>@edit 40323155_cp_w3.md</vh></v>
+<v t="leo.20160114223305.28"><vh>@edit 40323155_cp_w4.md</vh></v>
+<v t="leo.20160114223305.29"><vh>@edit 40323155_cp_w5.md</vh></v>
+<v t="leo.20160114223305.30"><vh>@edit 40323155_cp_w6.md</vh></v>
+<v t="leo.20160114223305.31"><vh>@edit 40323155_cp_w7.md</vh></v>
+<v t="leo.20160114223305.32"><vh>@edit 40323155_cp_w8.md</vh></v>
+<v t="leo.20160114223305.33"><vh>@edit 40323155_cp_w9.md</vh></v>
+<v t="leo.20160114223305.34"><vh>@edit 40323155_cp_w10.md</vh></v>
+<v t="leo.20160114223305.35"><vh>@edit 40323155_cp_w11.md</vh></v>
+<v t="leo.20160114223305.36"><vh>@edit 40323155_cp_w12.md</vh></v>
+<v t="leo.20160114223305.37"><vh>@edit 40323155_cp_w13.md</vh></v>
+<v t="leo.20160114223305.38"><vh>@edit 40323155_cp_w14.md</vh></v>
+<v t="leo.20160114223305.39"><vh>@edit 40323155_cp_w15.md</vh></v>
+<v t="leo.20160114223305.40"><vh>@edit 40323155_cp_w16.md</vh></v>
+<v t="leo.20160114223305.41"><vh>@edit 40323155_cp_w17.md</vh></v>
 </v>
 </v>
 </v>
@@ -117,459 +141,11 @@ vertical: body pane on the botton</t>
 import os
 os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t ../../theme/pelican-octopress")
 g.es("user pelican 執行完畢")</t>
-<t tx="leo.20151117185056.1"></t>
-<t tx="leo.20151117185056.10">@language md
-Title: 2015 CADPA 第一周報告
-Date: 2015-10-22 20:07
-Category: Python
-Tags: pelican, publishing
-Slug: 2015cp_hw_w1
-Authors: 40323155
-Summary: &lt;iframe src="40323155_cp_w1_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
- 
-&lt;iframe src="40323155_cp_w1_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-一．github倉儲的建立:
-------------
-  在開始學習這門課前之前要先學會如何使用github建立倉儲，這樣子我們才把資料儲存在github，並且在github建立github pages的頁面。
-
-&lt;a href="https://copy.com/qgsXrCs3AViWd4ZO"&gt;&lt;img src="https://copy.com/qgsXrCs3AViWd4ZO" width="500" height="281" border="0"&gt;&lt;/a&gt;&lt;/br&gt;
-    a.登入帳號後點擊右上角的 + 符號&lt;/br&gt;
-    b.接著點擊選單上的repository&lt;/br&gt;
-    
-&lt;a href="https://copy.com/7ZNSawFg9Z3ZFteD"&gt;&lt;img src="https://copy.com/7ZNSawFg9Z3ZFteD" width="500" height="281" border="0"&gt;&lt;/a&gt;&lt;/br&gt;
-    a.輸入欲建立倉儲的名稱&lt;/br&gt;
-    b.勾選自動生成README&lt;/br&gt;
-    c.點擊Create repository建立倉儲&lt;/br&gt;
-    
-&lt;a href="https://copy.com/rLGHxkng949P91sM"&gt;&lt;img src="https://copy.com/rLGHxkng949P91sM" width="500" height="281" border="0"&gt;&lt;/a&gt;&lt;/br&gt;
-    倉儲建立成功&lt;/br&gt;
-    
-二．git指令介紹及使用:
-------------
-  在一年級時我們已經學習過了一些基本的git指令了，這學期為了使用github pages來建立pelican網誌，另外學會了一些指令。
-    
-  上學期所學的指令:&lt;/br&gt;
-    1.下載資料:git clone 倉儲連結&lt;/br&gt;
-    2.新增全部資料:git add -A&lt;/br&gt;
-    3.新增指定資料:git add 檔案名稱&lt;/br&gt;
-    4.標記註解:git commit -m "注解"&lt;/br&gt;
-    5.推回資料:git push&lt;/br&gt;
-    
-  本學期所學的指令:&lt;/br&gt;
-    1.查看分支:git branch&lt;/br&gt;
-    2.建立分支:git branch 分支名稱&lt;/br&gt;
-    3.切換分支:git checkout 分支名稱&lt;/br&gt;
-    4.推回指定分支:git push origin 分支名稱&lt;/br&gt;
-    5.登陸信箱:git config --global user.email "信箱"&lt;/br&gt;
-    6.登陸名稱:git config --global user.name "名稱"&lt;/br&gt;
-    
-三．課堂分組:
-------------
-  這學期的課程中也需要分組完成各別的專案，而我的組員有:&lt;/br&gt;
-    40323133 張庭豪&lt;/br&gt;
-    40323142 陳柏曄&lt;/br&gt;
-    40323147 黃健華&lt;/br&gt;
-    40323152 廖子誠&lt;/br&gt;
-    40323155 鄭弘暉&lt;/br&gt;
-    40323156 賴武辰&lt;/br&gt;
-
-四．心得及自評:
-------------
-  心得:這學期所學到的git指令比上學期多，不過因為有作筆記能夠慢慢的用，相信在幾週之後能夠熟練這些指令。&lt;/br&gt;
-  自評:90分
-
-
-
-
-
-
-</t>
-<t tx="leo.20151117185056.11">@language md
-Title: 2015 CADPA 第二周報告
-Date: 2015-10-22 20:07
-Category: Python
-Tags: pelican, publishing
-Slug: 2015cp_hw_w2
-Authors: 40323155
-Summary: &lt;iframe src="40323155_cp_w2_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-    
-&lt;iframe src="40323155_cp_w2_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-一．修正編碼:
-------------
-上周發現將檔案推回github後，無法順利的開啟github pages的頁面，後來老師發現是編碼的問題，所以我們需要修正notebook.py的編碼之後再推回github。
-
-&lt;a href="https://copy.com/0413Rj1vmLGt8xwd"&gt;&lt;img src="https://copy.com/0413Rj1vmLGt8xwd" width="500" height="281" border="0"&gt;&lt;/a&gt;&lt;/br&gt;
-    a.進入資料夾中的plugin\liquid_tags，並開啟當中的notebook.py&lt;/br&gt;
-
-&lt;a href="https://copy.com/YyG7n3CrF8NbaT3N"&gt;&lt;img src="https://copy.com/YyG7n3CrF8NbaT3N" width="500" height="281" border="0"&gt;&lt;/a&gt;&lt;/br&gt;
-    a.按下ctrl+f，使用搜尋的功能尋找open的字串&lt;/br&gt;
-    b.在後頭加上encoding="utf-8"後即可&lt;/br&gt;
-
-二．心得及自評:
-------------
-心得:上週遇到的問題就是自上傳之後，無法正常的在github開啟網頁，在老師檢查過後發現是編碼的問題，再修正了編碼之後便能夠正常的修改上傳並開啟網頁了。&lt;/br&gt;
-自評:90分&lt;/br&gt;
-
-
-
-</t>
-<t tx="leo.20151117185056.12">@language md
-Title: 2015 CADPA 第三周報告
-Date: 2015-10-22 20:07
-Category: Python
-Tags: pelican, publishing
-Slug: 2015cp_hw_w3
-Authors: 40323155
-Summary: &lt;iframe src="40323155_cp_w3_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-    
-&lt;iframe src="40323155_cp_w3_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-</t>
-<t tx="leo.20151117185056.13">@language md
-Title: 2015 CADPA 第四周報告
-Date: 2015-10-22 20:07
-Category: Python
-Tags: pelican, publishing
-Slug: 2015cp_hw_w4
-Authors: 40323155
-Summary: &lt;iframe src="40323155_cp_w4_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-    
-&lt;iframe src="40323155_cp_w4_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-</t>
-<t tx="leo.20151117185056.14">@language md
-Title: 2015 CADPA 第五周報告
-Date: 2015-10-22 20:07
-Category: Python
-Tags: pelican, publishing
-Slug: 2015cp_hw_w5
-Authors: 40323155
-Summary: &lt;iframe src="40323155_cp_w5_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-    
-&lt;iframe src="40323155_cp_w5_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-</t>
-<t tx="leo.20151117185056.15">@language md
-Title: 2015 CADPA 第六周報告
-Date: 2015-10-22 20:07
-Category: Python
-Tags: pelican, publishing
-Slug: 2015cp_hw_w6
-Authors: 40323155
-Summary: &lt;iframe src="40323155_cp_w6_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-    
-&lt;iframe src="40323155_cp_w6_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-</t>
-<t tx="leo.20151117185056.16">@language md
-Title: 2015 CADPA 第七周報告
-Date: 2015-10-22 20:07
-Category: Python
-Tags: pelican, publishing
-Slug: 2015cp_hw_w7
-Authors: 40323155
-Summary: &lt;iframe src="40323155_cp_w7_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-    
-&lt;iframe src="40323155_cp_w7_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-</t>
-<t tx="leo.20151117185056.17">@language md
-Title: 2015 CADPA 第八周報告
-Date: 2015-10-22 20:07
-Category: Python
-Tags: pelican, publishing
-Slug: 2015cp_hw_w8
-Authors: 40323155
-Summary: &lt;iframe src="40323155_cp_w8_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-    
-&lt;iframe src="40323155_cp_w8_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-</t>
-<t tx="leo.20151117185056.2"></t>
-<t tx="leo.20151117185056.3">@language html
-&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-&lt;body&gt;
-&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h1&gt;電腦輔助設計與實習&lt;/h1&gt;
-    &lt;p&gt;班級:四設計二甲&lt;/p&gt;
-    &lt;p&gt;學號:40323155&lt;/p&gt;
-    &lt;p&gt;姓名:鄭弘暉&lt;/p&gt;		
-&lt;/section&gt;
-
-&lt;section&gt;
-    &lt;section&gt;
-    &lt;h1&gt;第一週上課內容&lt;/h1&gt;
-    &lt;/section&gt;
-&lt;/section&gt;
-&lt;section&gt;
-    &lt;section&gt;
-    &lt;h1&gt;攜帶上課所需物品&lt;/h1&gt;
-    &lt;/section&gt;
-    &lt;section&gt;
-    &lt;p&gt;1.筆記本&lt;/p&gt;
-    &lt;p&gt;2.耳機&lt;/p&gt;
-    &lt;p&gt;3.隨身硬碟&lt;/p&gt;
-    &lt;/section&gt;
-&lt;/section&gt;
-&lt;section&gt;
-    &lt;section&gt;
-    &lt;h1&gt;分組完成專案&lt;/h1&gt;
-    &lt;/section&gt;
-    &lt;section&gt;
-    &lt;p&gt;組員:&lt;/p&gt;
-    &lt;p&gt;40323133 張庭豪&lt;/p&gt;
-    &lt;p&gt;40323142 陳柏曄&lt;/p&gt;
-    &lt;p&gt;40323147 黃健華&lt;/p&gt;
-    &lt;p&gt;40323152 廖子誠&lt;/p&gt;
-    &lt;p&gt;40323155 鄭弘暉&lt;/p&gt;
-    &lt;p&gt;40323156 賴武辰&lt;/p&gt;
-    &lt;/section&gt;
-&lt;/section&gt;
-&lt;section&gt;
-    &lt;section&gt;
-    &lt;h1&gt;學習git指令&lt;/h1&gt;
-    &lt;/section&gt;
-    &lt;section&gt;
-    &lt;p&gt;1.查看分支:git branch&lt;/p&gt;
-    &lt;p&gt;2.建立分支:git branch 分支名稱&lt;/p&gt;
-    &lt;p&gt;3.切換分支:git checkout 分支名稱&lt;/p&gt;
-    &lt;p&gt;4.推回指定分支:git push origin 分支名稱&lt;/p&gt;
-    &lt;p&gt;5.登陸信箱:git config --global user.email "信箱"&lt;/p&gt;
-    &lt;p&gt;6.登陸名稱:git config --global user.name "名稱"&lt;/p&gt;
-    &lt;/section&gt;
-&lt;/section&gt;
-&lt;section&gt;
-    &lt;h1&gt;建立github倉儲&lt;/h1&gt;
-&lt;/section&gt;
-&lt;section&gt;
-    &lt;section&gt;
-    &lt;h1&gt;心得及自評&lt;/h1&gt;
-    &lt;/section&gt;
-    &lt;section&gt;
-    &lt;p&gt;心得:這學期所學到的git指令比上學期多，不過因為有作筆記能夠慢慢的用，相信在幾週之後能夠熟練這些指令。&lt;/p&gt;
-    &lt;p&gt;自評:90分&lt;/p&gt;
-    &lt;/section&gt;
-&lt;/section&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-&lt;/body&gt;
-
-</t>
-<t tx="leo.20151117185056.4"></t>
-<t tx="leo.20151117185056.5"></t>
-<t tx="leo.20151117185056.6">@language python
-#!/usr/bin/env python
-# -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
-
-# This file is only used if you use `make publish` or
-# explicitly specify it as your config file.
-
-import os
-
-AUTHOR = '40323155'
-SITENAME = '2015FALL 40323155 CADPA 作業'
-SITEURL = ''
-
-PATH = 'content'
-
-TIMEZONE = 'Asia/Taipei'
-
-DEFAULT_LANG = 'en'
-
-# Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
-
-# Blogroll
-LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
-         ('Python', 'http://python.org/'),('2015作業主頁', '../../'),('40323155 Github', 'https://github.com/40323155/cadpa'))
-
-# Social widget
-SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
-          ('github', 'http://github.com/ametaireau'),)
-          
-DEFAULT_PAGINATION = 10
-
-SITEURL = 'http://coursemdetw.github.io/reveal'
-RELATIVE_URLS = True
-
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
-
-DELETE_OUTPUT_DIRECTORY = True
-
-# Following items are often useful when publishing
-
-#DISQUS_SITENAME = ""
-DISQUS_SITENAME = "2015fall"
-#GOOGLE_ANALYTICS = ""
-
-# 必須絕對目錄或相對於設定檔案所在目錄
-PLUGIN_PATHS = ['./../../../plugin']
-PLUGINS = ['liquid_tags.notebook']
-# 目錄設定相對於 reveal 下的 content 目錄
-NOTEBOOK_DIR = 'notebook'
-
-
-</t>
-<t tx="leo.20151117185056.7"></t>
-<t tx="leo.20151117185056.8"></t>
-<t tx="leo.20151117185056.9">@language md
-Title: 2015 CADPA 投影片
-Date: 2015-10-22 20:05
-Category: Python
-Tags: pelican, publishing
-Slug: 2015cp_hw_ppt
-Authors: 40323155
-Summary: &lt;iframe src="40323155_cp_w1_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-[作業一投影片](40323155_cp_w1_p.html){:target="_blank"}
-
-使用 H1 標題
-============
-
-文字段落間若要跳行, 必須插入空白行, 否則將會被 Markdown 視為連續的資料
-
-使用. *斜體文字*, **黑體文字**, 以及 `單線文字`. 表列資料可以寫為:
-
-  * 第1項說明
-  * 第2項說明
-  * 第3項說明
-
-特別注意 --- 不包括星號 --- 表列文字從第四欄位開始.
-
-&gt; 引用的內容寫在這裡
-&gt; 主要是以大於的符號開頭.
-&gt;
-&gt; 其中也可以利用空白行隔開,
-&gt; 整區都是引用內容的範圍.
-
-em-dash 符號是3個 dashes. 利用兩個 dashes 來連接開始與結束 (ex., "這個禮拜要閱讀章節 12--14"). 3個逗點 ... 則會被轉為 ellipsis.
-pelican 可以支援 unicode. ☺
-
-H2 標題
-------------
-
-有數字的表列資料:
-
- 1. 第1項
- 2. 第2項
- 3. 第3項
-
-跟前面一樣, 文字從第四個欄位開始.
-
-程式碼的表達:
-
-    # for 重複迴圈 ...
-    for i in 1 .. 10 { 呼叫特定函式(i) }
-
-這裡也是要空4個 space 鍵. 
-
-除了每一行空4個空白, 也可以使用 delimited 來界定程式碼範圍, 就像這樣:
-
-~~~
-define foobar() {
-    print("歡迎進入程式的世界!")
-}
-~~~
-
-(這樣的表達比較容易用來複製程式碼內容).
-
-python 的程式碼, 可以寫成下列格式
-
-~~~python
-import time
-# 以下會從 0 數到 9
-for i in range(10):
-    # 稍微暫停一下
-    time.sleep(0.5)
-    print(i)
-~~~
-
-以下為另外一種嵌入程式碼的方法:
-
-    #!python
-    import time
-    # 以下會從 0 數到 9
-    for i in range(10):
-        # 稍微暫停一下
-        time.sleep(0.5)
-        print(i)
-
-### H3 標題 ###
-
-以下則為內嵌式的表列法t:
-
- 1. 首先, 將完成下列元件的設計:
-
-      * 轉向機構
-      * 煞車系統
-      * 踩踏機構
-
- 2. 接著連繫工業設計部門.
-
- 3. 確定上述元件的各項設計與用料都符合原始設計規格的要求
-    查驗表:
-
-        各元件材質
-        車蓋顏色
-        機構調校流程
-        需要熱處理的元件列表
-
-    完成上述查驗後, 請通知品保部門, 以便接續處理.
-
-特別注意各階資料都以內縮4個空白鍵來加以區隔, 包含最後一行.
-
-Markdown 的超文件連結寫法 [連到 Google](http://www.google.com){:target="_blank"}, 也可以連到同目錄下的檔案 [cadpbw1.html](cadpbw1.html){:target="_blank"}, 也能使用註腳 [^1].
-
-[^1]: 註腳會連結到這裡.
-
-放入圖檔, 可以直接利用 html 的 img 標註:
-
-&lt;img src="images/spur.png" width="500" alt="正齒輪繪圖"&gt;&lt;/img&gt;
-
-Vimeo 影片嵌入(直接從 Vimeo 影片上的 Share 複製 html 碼):
-
-&lt;iframe src="https://player.vimeo.com/video/137724068" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程系 KMOL&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-</t>
+<t tx="leo.20160114223305.1"></t>
+<t tx="leo.20160114223305.2"></t>
+<t tx="leo.20160114223305.20"></t>
+<t tx="leo.20160114223305.21"></t>
+<t tx="leo.20160114223305.23"></t>
+<t tx="leo.20160114223305.24"></t>
 </tnodes>
 </leo_file>
